@@ -1,7 +1,5 @@
 # ☕ Coffee Shop
 
-![Coffee Shop](https://yourimageurl.com/your-image.png)
-
 ## 📋 Sumário
 
 - [Sobre](#sobre)
